@@ -1,6 +1,6 @@
 
-# Pictionary #
-### Pictionary app written in [Node.js ](https://nodejs.org/en/)and Socket.io ###
+# Picto node #
+### Picto node app written in [Node.js ](https://nodejs.org/en/)and Socket.io ###
 ##  How to run Pictionary
 To get node_modules directory type in terminal:
 
